@@ -25,5 +25,3 @@ be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
 
-
-[Hana_Shelbin.zip](https://github.com/H-ana/ShapeAI_Hana_Shelbin/files/6495971/Hana_Shelbin.zip)
